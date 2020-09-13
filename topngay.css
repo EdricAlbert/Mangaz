@@ -6,3 +6,18 @@
     font-size: 40px;
     color: red;
 }
+.firstmanga{
+    display: flex;
+    margin: auto;
+    width: 400px;
+}
+.manga-item{
+    margin-right: 30px;
+    margin-top: 20px;
+}
+.secondmanga{
+    display: flex;
+    margin: auto;
+    width: 700px;
+    padding-left: 100px;
+}
